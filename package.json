@@ -1,0 +1,30 @@
+{
+  "name": "parcel-init",
+  "version": "1.0.0",
+  "description": "parcel init study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skandla2002/parcel-init.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skandla2002/parcel-init/issues"
+  },
+  "homepage": "https://github.com/skandla2002/parcel-init#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
